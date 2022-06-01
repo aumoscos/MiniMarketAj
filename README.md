@@ -2,4 +2,4 @@
 
 Primera Caputra  |
  --- |
-![PrimeraCaptura](MiniMarketAj/capturas/PrimeraCaptura.jpg)  |
+![PrimeraCaptura](aumoscos/MiniMarketAj/capturas/PrimeraCaptura.jpg)  |
