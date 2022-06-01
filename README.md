@@ -2,4 +2,4 @@
 
 Primera Caputra  |
  --- |
-![PrimeraCaptura](/capturas/PrimeraCaptura.jpg)  |
+![PrimeraCaptura](MiniMarketAj/capturas/PrimeraCaptura.jpg)  |
