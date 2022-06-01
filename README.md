@@ -1,5 +1,5 @@
 # MiniMarketAj
 
-##Caputra ejecucion del proyecto 
-
-![PrimeraCaptura](/capturas/PrimeraCaptura.jpg) 
+Primera Caputra  |
+ --- |
+![PrimeraCaptura](/capturas/InkedImagenMainO_LI.jpg)  |
