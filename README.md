@@ -2,4 +2,4 @@
 
 Primera Caputra  |
  --- |
-![PrimeraCaptura](/capturas/InkedImagenMainO_LI.jpg)  |
+![PrimeraCaptura](/capturas/PrimeraCaptura.jpg)  |
