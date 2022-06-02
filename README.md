@@ -6,7 +6,7 @@ Primera Caputra  |
  --- |
 SalidaProducyis.aj  |
  --- |
-![SegundaCaptura]()  |
+![SegundaCaptura](https://github.com/aumoscos/MiniMarketAj/blob/main/Capturas/Screenshot%20(661).png)  |
  --- |
 Busquedas.aj  |
  --- |
