@@ -10,4 +10,4 @@ SalidaProducyis.aj  |
  --- |
 Busquedas.aj  |
  --- |
-![TerceraCaptura]()  |
+![TerceraCaptura](https://github.com/aumoscos/MiniMarketAj/blob/main/Capturas/Screenshot%20(663).png)  |
